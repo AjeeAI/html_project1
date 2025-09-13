@@ -97,6 +97,66 @@
 
 
 /* Shola's part */
+.section_3 {
+    background-color: #111827;
+    padding-bottom: 70px;
+    padding-top: 50px;
+    
+}
+
+.head_text {
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+    font-size: 52px;
+    margin-bottom: 0;
+}
+
+.sub-text {
+    text-align: center;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.card1 {
+    width: 20%;
+    background-color: #1e2633;
+    border-radius: 12px;
+    padding-bottom: 8px;
+    
+}
+
+
+.burger {
+    width: 100%;
+    border-radius: 12px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.card-text {
+    padding-left: 28px;
+    font-family: sans-serif;
+    font-size: 28px;
+    margin-top: 24px;
+    margin-bottom: 0;
+}
+
+.card-body-text {
+    padding-left: 28px;
+    font-family: sans-serif;
+    font-size: 17px;
+    margin-top: 14px;
+    padding-right: 20px;
+    color: #b9b7b7;
+    
+}
 
 
 
@@ -130,11 +190,56 @@
 
 /* =========================Style of Fourth page================== */
 /* Shola's part */
+.section-4 {
+    background-color: #1a3d2e;
+    width: 2
+}
 
+.sec4_head_text {
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+    font-size: 52px;
+    margin-bottom: 0;
+    padding-top: 60px;
+}
 
+.sec4_subtext {
+    text-align: center;
+    font-size: 24px;
+    font-family: sans-serif;
+    padding-bottom: 10px;
+    margin-top: 5px;
+}
 
+.sec4_bodytext {
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 18px;
+    padding-left: 535px;
+    padding-right: 535px;
+    color: #cecccc;
+    padding-bottom: 12px;
+    
+}
 
+.sec4_button_container {
+    display: flex;
+    justify-content: center;
+}
 
+.sec4_button {
+    padding: 16px 32px;
+    font-size: 18px;
+    background-color: #06ff76;
+    border: none;
+    border-radius: 32px;
+    color: #000;
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+    margin-bottom: 100px;
+    margin-top: 20px;
+}
 
 
 
