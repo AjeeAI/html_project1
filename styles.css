@@ -82,10 +82,10 @@
 }
 
 .card1 p{
-    /* font-size: 50px; */
+    
     text-align: center;
     margin-bottom: 0px;
-    /* color: white; */
+  
     font-weight: bold;
 
 }
@@ -222,11 +222,11 @@
 }
 
 .card2-left span{
-    /* font-size: 50px; */
+  
     text-align: left;
     margin-bottom: 0px;
     color: #22C55E;
-    /* font-weight: bold; */
+ 
    
     
 }
