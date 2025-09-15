@@ -354,36 +354,54 @@
             <div><h1>Contact us</h1></div>
             <div class="text"><p>Have questions or feedbacks? We'd love to hear from you. reach out to us using the contact information below or fill out the form, and we'll get back to you as soon as possible.</p></div>
 
-            <div><img src = "./icons8-email-open-32.png" height="30px" width="30px"><span style="font-size: 10px;">Contact@example.com</span></div>
+            <div class = "imgandtext">
+                <img src = "./icons8-email-open-32.png">
+                <p>
+                    Contact@example.com
+                </p>
+            </div>
 
-            <div><img src = "./icons8-phone-80.png" height="30px" width="30px"><span style="font-size: 10px;">+1(234)567-890</span></div>
+            <div class = "imgandtext">
+                
+               
+                <img src = "./icons8-phone-80.png">
+                <p>
+                    +1(234)567-890
+                </p>
+            
+            </div>
 
-            <div><img src = "./icons8-location-50.png" height="30px" width="30px"><span style="font-size: 10px;">123 Green St, Foodvile, FV45678</span></div>
+            <div class = "imgandtext">
+                
+                <img src = "./icons8-location-50.png">
+                <p>
+                    123 Green St, Foodvile, FV45678
+                </p>
+            </div>
         </div>
 
 
         <form class="form">
-            <div class="name">
+            
                 <div class="name_inside">
                     <input type="text" id="username"    name="username" required
                         pattern="[a-zA-Z0-9]{3,16}"
-                        style="width: 70%; padding: 8px; border: 0px solid #ddd; border-radius: 40px; background-color: #1c3b25"
+                        
                         placeholder="Your name"
                         title="Username must be 3-16 characters and contain only letters and numbers">
                 </div>
-            </div>
-            <div style="margin-bottom: 15px;">
+            
+            <div>
                 <input type="email" id="email-advanced" name="email-advanced" required
-                    style="width: 70%; padding: 8px; border: 0px solid #ddd; border-radius: 40px; background-color: #1c3b25"
-                    placeholder="Your email">
+                placeholder="Your email">
             </div>
-            <div style="margin-bottom: 15px;">
+            <div >
                 <textarea id="bio" name="bio" maxlength="500" required
-                        style="width: 68%; padding: 12px; border: 0px solid #ddd; border-radius: 30px; height: 100px; background-color: #1c3b25"
+                       
                         placeholder="Your message"></textarea>
             </div>   
-            <div class="button"
-                <button type="submit">
+            <div>
+                <button>
                     Submit
                 </button>
             </div>
