@@ -39,4 +39,4 @@ Here's a preview of the sixth page:
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/foodie.git
+   https://github.com/AjeeAI/html_project1
