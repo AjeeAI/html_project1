@@ -454,10 +454,15 @@
       font-family: poppins;
       
 }
+.everything article{
+    text-align: center;
+    padding-top: 20px;
+    
+}
 .review{
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     background-color:#1a2e23;
     border-radius: 10px;
@@ -467,14 +472,22 @@
     /* height: 22vh;  */
     margin: 10px;
     transition: 3s all ease;
-    font-size: 15px;
-    height: 300px;
+    /* font-size: 25px; */
+    height: 500px;
     width: 400px;
+    gap: 30px;
     
 }
+
+.review p{
+    font-size: 25px;
+    color: black;
+    margin-top: 20px;
+    text-align: center;
+}
 .everything{
-    position: relative;
-    top: 30px;
+   color: black;
+    /* top: 30px; */
 }
 .img{
     margin-top: 30px;
@@ -487,9 +500,9 @@ padding-top: 10px;
 
 .lp{
 font-size: 15px;
-color: #4bb666;
+color: #0f2013;
 align-content: center;
-opacity: 0.8;
+/* opacity: 0.8; */
 }
 
 .reuben_section{

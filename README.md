@@ -8,10 +8,6 @@ Here’s a preview of the first page:
 
 ![Foodie First Page](https://github.com/user-attachments/assets/6296888b-e8a0-47e8-aab3-d90e63663755)
 
-## Features
-- Minimal and responsive design
-- Easy-to-navigate layout
-- Ready for customization
 
 Here's a preview of the second page:
 
@@ -36,7 +32,12 @@ Here's a preview of the sixth page:
 
 
 
+## Features
+- Minimal and responsive design
+- Easy-to-navigate layout
+- Ready for customization
+
 ## Getting Started
-1. Clone the repository:
+Clone the repository:
    ```bash
-   https://github.com/AjeeAI/html_project1
+  git clone https://github.com/AjeeAI/html_project1
